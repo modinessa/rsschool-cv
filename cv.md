@@ -45,3 +45,28 @@ Wargaming /St. Petersburg, Russia</em>
  <li>Composed, layouted and built ground game facilities in game engine (military bases, ports, airports, landmarks, cities)</li>
  <li>Organized team buildings activities, which helped building trust and improved team collaboration</li>
 </ul>
+
+<h2>Education</h2>
+<ul>
+  <li>Bachelor, Graphic Design <em>Sep 2012 – Jun 2014</em><br />
+  Peter the Great St. Petersburg Polytechnic University, St. Petersburg, Russia</li>
+  <li>Bachelor, Physics and Mathematics education <em>Sep 2006 – Jun 2010</em><br />
+  Kursk State University, Kursk, Russia</li>
+</ul>
+
+<h2>Certificates/ Additional Education</h2>
+<ul>
+  <li>Python 3 Programming Specialization, Coursera, Credential ID LRJQD6MDXH36 <em>Jun 2020</em></li>
+  <li>3DS Max Design, Autodesk, Credential ID 1766787334 <em>Oct 2012</em></li>
+  <li>ESL, FUHSD Adult School, Cupertino, CA, USA <em>Jan 2020 – Mar 2020</em></li>
+  <li>ESL, Mission College, Santa Clara, CA, <em>USA Aug 2019 – Dec 2019</em></li>
+</ul>
+
+<h2>Strengths</h2>
+ <ul>
+  <li>Communication Skills</li>
+  <li>Flexibility and Adaptability</li>
+  <li>Quick learner</li>
+  <li>Critical thinking</li>
+  <li>Team oriented</li>
+ </ul>
