@@ -1,6 +1,6 @@
 <h1>Inessa Modina</h1>
 e-mail: modina.inessa@gmail.com<br />
-phone: 408 916 8297
+phone: +1 408 916 8297
 <h2>Summary</h2>
 I am a passionate, responsible and hardworking IT specialist. Working on different projects helped me quickly adapt to changes and made me a mature team member.
 I can work well both in a team and on my own initiative. I am good at working under pressure and adhere to strict deadlines.
