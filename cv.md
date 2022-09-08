@@ -1,15 +1,18 @@
 <h1>Inessa Modina</h1>
 e-mail: modina.inessa@gmail.com<br />
 phone: +1 408 916 8297
+
 <h2>Summary</h2>
-I am a passionate, responsible and hardworking IT specialist. Working on different projects helped me quickly adapt to changes and made me a mature team member.
-I can work well both in a team and on my own initiative. I am good at working under pressure and adhere to strict deadlines.
+Passionate Frontend Engineer with a desire to learn and grow in a collaborative team environment. Skilled in HTML, CSS, and JavaScript. Excels at creating pixel-perfect designs and working with cross-browser compatibility issues.
 
 <h2>Skills</h2>
  <h3>Programming Skills</h3>
   <ul>
+   <li>HTML</li>
+   <li>CSS</li>
+   <li>JavaScript</li>
+   <li>React</li>
    <li>Python</li>
-   <li>Java</li>
   </ul>
  <h3>Operating Systems</h3>
   <ul>
@@ -48,6 +51,7 @@ Wargaming /St. Petersburg, Russia</em>
 
 <h2>Education</h2>
 <ul>
+ <li>EPAM UpSkill Front-End Development Program <em>Jan 2022 – Jun 2022</em><br />
   <li>Bachelor, Graphic Design <em>Sep 2012 – Jun 2014</em><br />
   Peter the Great St. Petersburg Polytechnic University, St. Petersburg, Russia</li>
   <li>Bachelor, Physics and Mathematics education <em>Sep 2006 – Jun 2010</em><br />
