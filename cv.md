@@ -1,6 +1,10 @@
 <h1>Inessa Modina</h1>
 e-mail: modina.inessa@gmail.com<br />
-phone: +1 408 916 8297
+<a href="https://www.linkedin.com/in/modina-inessa/">
+ <br />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"/>
+</a><br />
+<br />
 
 <h2>Summary</h2>
 Passionate Frontend Engineer with a desire to learn and grow in a collaborative team environment. Skilled in HTML, CSS, and JavaScript. Excels at creating pixel-perfect designs and working with cross-browser compatibility issues.
