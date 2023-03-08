@@ -14,6 +14,7 @@ Passionate Frontend Engineer with a desire to learn and grow in a collaborative 
    <li>HTML</li>
    <li>CSS</li>
    <li>JavaScript</li>
+   <li>TypeScript</li>
    <li>React</li>
    <li>Python</li>
   </ul>
@@ -61,11 +62,10 @@ Wargaming /St. Petersburg, Russia</em>
   Kursk State University, Kursk, Russia</li>
 </ul>
 
-<h2>Certificates/ Additional Education</h2>
+<h2>Certificates / Additional Education</h2>
 <ul>
   <li>Python 3 Programming Specialization, Coursera, Credential ID LRJQD6MDXH36 <em>Jun 2020</em></li>
   <li>3DS Max Design, Autodesk, Credential ID 1766787334 <em>Oct 2012</em></li>
-  <li>ESL, FUHSD Adult School, Cupertino, CA, USA <em>Jan 2020 – Mar 2020</em></li>
   <li>ESL, Mission College, Santa Clara, CA, <em>USA Aug 2019 – Dec 2019</em></li>
 </ul>
 
